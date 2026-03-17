@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 **First Year Engineering Student** at Savitribai Phule Pune University (SPPU).
-- 💻 Currently mastering **C**, **Python**, and **JavaScript**.
+- 💻 Currently mastering **JavaScript**, **Python**, and **C**.
 - 🛠️ Aspiring **SaaS Developer** and Content Creator.
 - 📈 **9.64 CGPA** in Semester 1.
 ### 🛠️ Languages & Tools
