@@ -18,6 +18,6 @@
 - **Languages:** C, JavaScript, Python
 - **Tools:** VS Code, GitHub Desktop, Git
 - **Interests:** Web Development, Entrepreneurship, Content Creation
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x27ozfbablme7ojz4nb3ge5dxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 *“Consistency is the key to excellence.”*
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x27ozfbablme7ojz4nb3ge5dxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
