@@ -14,8 +14,6 @@
 - **Languages:** C, JavaScript, Python
 - **Tools:** VS Code, GitHub Desktop, Git
 - **Interests:** Web Development, Entrepreneurship, Content Creation
-- ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=false)
 
 ---
 *“Consistency is the key to excellence.”*
