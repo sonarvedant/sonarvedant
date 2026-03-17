@@ -13,12 +13,9 @@
 ### 🛠️ Tech Stack
 - **Languages:** C, JavaScript, Python
 - **Tools:** VS Code, GitHub Desktop, Git
-- **Interests:** Web Development, Entrepreneurship, Video Editing
-
-### 🎯 Current Goals
-- [ ] Building a digital gift card SaaS platform.
-- [ ] Mastering Data Structures in C.
-- [ ] Growing my YouTube channel for tech & mindset.
+- **Interests:** Web Development, Entrepreneurship, Content Creation
+- ### 📊 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
 
 ---
 *“Consistency is the key to excellence.”*
