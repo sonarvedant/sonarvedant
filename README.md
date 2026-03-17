@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vedant! 👋
 
-<!--
-**sonarvedant/sonarvedant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **First Year Engineering Student** at Savitribai Phule Pune University (SPPU).
+- 💻 Currently mastering **C**, **Python**, and **JavaScript**.
+- 🛠️ Aspiring **SaaS Developer** and Content Creator.
+- 📈 **9.64 CGPA** in Semester 1.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** C, JavaScript, Python
+- **Tools:** VS Code, GitHub Desktop, Git
+- **Interests:** Web Development, Entrepreneurship, Video Editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goals
+- [ ] Building a digital gift card SaaS platform.
+- [ ] Mastering Data Structures in C.
+- [ ] Growing my YouTube channel for tech & mindset.
+
+---
+*“Consistency is the key to excellence.”*
