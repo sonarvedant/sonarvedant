@@ -15,7 +15,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C++](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ### 🛠️ Tech Stack
-- **Languages:** C, JavaScript, Python
+- **Languages:** C, JavaScript, Python, Java
 - **Tools:** VS Code, GitHub Desktop, Git
 - **Interests:** Web Development, Entrepreneurship, Content Creation
 ---
