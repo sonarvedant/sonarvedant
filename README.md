@@ -4,7 +4,7 @@
 - 🎓 **First Year Engineering Student** at Savitribai Phule Pune University (SPPU).
 - 💻 Currently mastering **JavaScript**, **Python**, and **C**.
 - 🛠️ Aspiring **SaaS Developer** and Content Creator.
-- 📈 **9.64 CGPA** in Semester 1.
+- 📈 **9.73 CGPA** in First Year.
 ### 🛠️ Languages & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
