@@ -22,9 +22,10 @@ Day	Project	Concepts	Link
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,js,c,react,nodejs,mongodb,tailwind,git,vscode&theme=dark" /> </div>
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sonarvedant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarvedant&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </div>
+<div align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarvedant&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </div>
 
 <div align="center">
+<br><br><br>
 📬 Let's Connect
 <br>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
