@@ -22,7 +22,7 @@ Day	Project	Concepts	Link
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,js,c,react,nodejs,mongodb,tailwind,git,vscode&theme=dark" /> </div>
 📊 GitHub Stats
-<div align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarvedant&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </div>
+<div align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /></div>
 
 <div align="center">
 <br><br><br>
