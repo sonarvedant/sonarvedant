@@ -23,15 +23,7 @@ Day	Project	Concepts	Link
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,js,c,react,nodejs,mongodb,tailwind,git,vscode&theme=dark" /> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sonarvedant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarvedant&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </div>
-🏆 Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sonarvedant&theme=tokyonight&no-frame=true&row=1&column=6" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonarvedant&theme=tokyo-night&hide_border=true" /> </div>
-🌱 What's Next
- Finish all 20 mini-projects from the #30DaysOfPython challenge
- Apply DSA concepts learned in class to at least 5 of the projects
- Build one full-stack mini-SaaS project using React + Node + MongoDB
- Cross 500 LinkedIn connections through consistent daily posting
+
 <div align="center">
 📬 Let's Connect
 <br>
