@@ -1,28 +1,47 @@
-<h1 align="center">Hey, I'm Vedant 👋</h1> <h3 align="center">Engineering student • Building in public • Python & Web Dev</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Second+Year+Engineering+Student;Currently+Building+20+Python+Mini-Projects;Learning+DSA+in+Python;Aspiring+SaaS+Developer" alt="Typing SVG" /> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=180&section=header&text=Hey,%20I'm%20Vedant%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Second+Year+Engineering+Student;Building+20+Python+Mini-Projects+in+Public;Learning+DSA+in+Python;Aspiring+SaaS+Developer" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=sonarvedant&label=Profile%20Views&color=3776AB&style=flat" /> <img src="https://img.shields.io/github/followers/sonarvedant?label=Followers&style=flat&color=3776AB" /> </div> <br>
 🚀 About Me
-🎓 Second-year Engineering student (Computer Branch) at SPPU
-📈 Closed out first year with a 9.73 CGPA
-🧠 Currently deep in DSA in Python for coursework, and running a personal #30DaysOfPython build challenge alongside it
-🛠️ Comfortable in JavaScript, Python, and C — currently sharpening Python fundamentals through real projects, not just tutorials
-📬 Posting daily progress and project breakdowns on LinkedIn — follow along if you're learning too
-🔥 Currently Building — #30DaysOfPython
+python
+class Vedant:
+    def __init__(self):
+        self.year = "2nd Year, Computer Engineering @ SPPU"
+        self.cgpa = 9.73  # first year
+        self.currently_learning = ["DSA in Python", "Clean Code Practices"]
+        self.building = "#30DaysOfPython — 20 mini-projects, one per day"
+        self.goal = "SaaS Developer"
 
-Turning tutorial knowledge into actual projects, one a day. Each one's on GitHub with its own README.
+    def say_hi(self):
+        print("Thanks for stopping by — let's connect!")
+🔥 Live Build Log — #30DaysOfPython
 
-Day	Project	Core Concept
-01	Countdown Timer	time module, loop control, in-place printing
-02	ASCII Dice Roller	dictionaries, nested loops, random
-...	(updating daily)	
+Turning tutorial knowledge into real, working projects. One a day. Every project gets its own repo, its own README, and an honest note on what broke and what I learned.
 
-📌 Full list: 30-Days-of-Python repo
+<div align="center">
+Day	Project	Concepts	Link
+01	Countdown Timer	time module · loop control · in-place printing	Code
+02	ASCII Dice Roller	dictionaries · nested loops · random	Code
+...	updating daily		
 
-🛠️ Languages & Tools
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
+📌 Full repo: 30-Days-of-Python → · 📢 Daily posts: LinkedIn →
+
+</div>
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,c,react,nodejs,mongodb,tailwind,git,vscode&theme=dark" /> </div>
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sonarvedant&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /> </p>
-🌱 What I'm Interested In
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sonarvedant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonarvedant&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarvedant&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </div>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sonarvedant&theme=tokyonight&no-frame=true&row=1&column=6" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonarvedant&theme=tokyo-night&hide_border=true" /> </div>
+🌱 What's Next
+ Finish all 20 mini-projects from the #30DaysOfPython challenge
+ Apply DSA concepts learned in class to at least 5 of the projects
+ Build one full-stack mini-SaaS project using React + Node + MongoDB
+ Cross 500 LinkedIn connections through consistent daily posting
+<div align="center">
+📬 Let's Connect
 
-Web development, DSA problem-solving, and eventually building my own SaaS product — right now, focused on getting the fundamentals rock solid through daily hands-on practice instead of just watching more tutorials.
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-📬 Connect
-<p align="left"> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" /> </div>
